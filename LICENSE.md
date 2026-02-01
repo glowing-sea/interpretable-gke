@@ -3,7 +3,7 @@
 **Copyright (c) 2025-2026 Haoting Chen**
 
 ### 1. Scope of License
-This repository contains a mixture of university-provided materials and original student implementation. The **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license applies **ONLY** to the original contributions made by the authors listed above, which include:
+This repository may contain a mixture of university-provided materials and original student implementation. The **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license applies **ONLY** to the original contributions made by the authors listed above, which include but not limited to:
 * All original source code, scripts, and implementation logic.
 * Original design documents, project reports, and analytical diagrams.
 * Any custom digital assets, configurations, or creative works produced by the team.
